@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -----
-<h4> Back-End Developer </h4>
+<h4> Back-End Developer💻 </h4>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/MyBatis-C4242B?style=flat&logo=MyBatis&logoColor=white" />
 <img src="https://img.shields.io/badge/ApacheMaven-C71A36?style=flat&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/Junit4-25A162?style=flat&logo=Junit4&logoColor=white" />
@@ -26,25 +26,24 @@ Here are some ideas to get you started:
 
 <h4> Education 📒 </h4>
 
-<h6>신세계 아이앤씨 KDT 3기</h6>
-AI플랫폼을 활용한 (리테일) 서비스 개발과정
-- 교육일정 🗓️ 2023.08.14(월) ~ 2024.02.08(목)
-- 풀스택 개발자 💻
+<h6>신세계 아이앤씨 KDT 3️⃣기</h6>
+🍀 AI플랫폼을 활용한 (리테일) 서비스 개발과정<br/>
+* 교육일정 🗓️ 2023.08.14(월) ~ 2024.02.08(목)<br/>
 <hr/>
 
-<h4>  Project💻 </h4>
+<h4>  Project🐤 </h4>
 
 <H6>🕹️ PacBoy : Game Project with JAVA</H6>
 <p>
-- 개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)
-- 담당역할 👻 Project Leader, Back End, Integration, Refactoring
-- 기능소개 💁‍♀️팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
+* 개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)<br/>
+* 담당역할 👻 Project Leader, Back End, Integration, Refactoring<br/>
+* 기능소개 💁‍♀️팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임<br/>
 </p>
 <H6>📦 SSGtarbucks : 매장 재고 관리 시스템</H6>
 <p>
-- 개발기간 🗓️ 24.01.01(월) ~ 24.02.06() (총 37일간)
-- 담당역할 🐥 Project Leader, Back End 
-- 기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템
+* 개발기간 🗓️ 24.01.01(월) ~ 24.02.06() (총 37일간)<br/>
+* 담당역할 🐥 Project Leader, Back End <br/>
+* 기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템<br/>
  </p>
 ---
-![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple)
+<!-- ![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple) -->
