@@ -9,7 +9,6 @@
 <h3> Education 📒 </h3>
 <h4>신세계 아이앤씨 KDT 3️⃣기</h4>
 <h4>🍀 AI플랫폼을 활용한 (리테일) 서비스 개발과정</h4>
-
 -   교육일정 🗓️ 2023.08.14(월) ~ 2024.02.08(목)<br/>
 
 <hr/>
@@ -24,7 +23,7 @@
 <h4>📦 SSGtarbucks : 매장 재고 관리 시스템</h4>
 
 -  개발기간 🗓️ 24.01.01(월) ~ 24.02.06(화) (총 37일간)
--  담당역할 🐥 Project Leader, Back End
+-  담당역할 ⭐ Project Leader, Back End
 -  기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템
 
 <!-- ![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple) -->
