@@ -8,19 +8,23 @@
 <h3> Education 📒 </h3>
 <h4>신세계 아이앤씨 KDT 3️⃣기</h4>
 <h4>🍀 AI플랫폼을 활용한 (리테일) 서비스 개발과정</h4>
- - 교육일정 🗓️ 2023.08.14(월) ~ 2024.02.08(목)<br/>
+
+-   교육일정 🗓️ 2023.08.14(월) ~ 2024.02.08(목)<br/>
+
 <hr/>
 
 <h3>  Project 📟 </h3>
 <h4>🕹️ PacBoy : Game Project with JAVA</h4>
+
 - 개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)<br/>
 - 담당역할 👻 Project Leader, Back End, Integration, Refactoring<br/>
 - 기능소개 💁‍♀️ 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임<br/>
 
 <h4>📦 SSGtarbucks : 매장 재고 관리 시스템</h4>
- - 개발기간 🗓️ 24.01.01(월) ~ 24.02.06(화) (총 37일간)<br/>
- - 담당역할 🐥 Project Leader, Back End <br/>
- - 기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템<br/>
+
+-  개발기간 🗓️ 24.01.01(월) ~ 24.02.06(화) (총 37일간)
+-  담당역할 🐥 Project Leader, Back End
+-  기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템
 
 <!-- ![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple) -->
 <!--
