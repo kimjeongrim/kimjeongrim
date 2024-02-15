@@ -2,11 +2,17 @@
 
 <h2> Hi, there👋 I'm jaunty ogurim 🐥 </h2>
 <img src="https://img.shields.io/badge/ogurim23@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-<!--뱃지 참고 https://simpleicons.org/?q=gmail &  https://eunhee-programming.tistory.com/239 -->
-<!--<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
+
+<!--https://hits.seeyoufarm.com/-->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjeongrim&count_bg=%23CCB7D9&title_bg=%23BCBCBC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple) 
+
 
 
 <h3> Back-End Developer💻 </h3>
+<!--뱃지 참고 https://simpleicons.org/?q=gmail &  https://eunhee-programming.tistory.com/239 -->
+<!--<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
 <h4> 🗡️Skill🗡️ </h4>
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -60,8 +66,11 @@
 -  담당역할 ⭐ Project Leader, Back End
 
 <hr/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjeongrim&count_bg=%23FBF6CD&title_bg=%23BCBCBC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple)  -->
+
+<!-- 조회수 뱃지 
+
+
+
 <!--
 **kimjeongrim/kimjeongrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
