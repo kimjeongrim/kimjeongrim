@@ -1,4 +1,4 @@
-### Hi, there! I'm jaunty ogurim👋
+## Hi, there! I'm jaunty ogurim👋
 
 <!--
 **kimjeongrim/kimjeongrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ------
-####h5 Back-End Developer
+### Back-End Developer
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-4B4B77?style=flat&logo=JWT&logoColor=white" />
