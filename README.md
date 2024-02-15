@@ -21,15 +21,17 @@
 <h3>  Project 📟 </h3>
 <h4>🕹️ PacBoy : Game Project with JAVA</h4>
 
-- 개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)<br/>
-- 담당역할 👻 Project Leader, Back End, Integration, Refactoring<br/>
-- 기능소개 💁‍♀️ 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임<br/>
+- 기능소개 💁‍♀️ 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
+- 개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)
+- 담당역할 👻 Project Leader, Back End, Integration, Refactoring
+
 
 <h4>📦 SSGtarbucks : 매장 재고 관리 시스템</h4>
 
+-  기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템
 -  개발기간 🗓️ 24.01.01(월) ~ 24.02.06(화) (총 37일간)
 -  담당역할 ⭐ Project Leader, Back End
--  기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템
+
 
 <!--![Ogurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurim&show_icons=true&theme=midnight-purple)  -->
 <!--
