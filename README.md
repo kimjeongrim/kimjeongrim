@@ -13,7 +13,7 @@
 <h3> Back-End Developer💻 </h3>
 <!--뱃지 참고 https://simpleicons.org/?q=gmail &  https://eunhee-programming.tistory.com/239 -->
 <!--<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
-<h4> 🗡️Skill🗡️ </h4>
+<b> 🗡️Skill🗡️ </b>
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/MyBatis-C4242B?style=flat&logo=MyBatis&logoColor=white" />
@@ -25,7 +25,9 @@
   <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 
   
-<h4> 🔗DevOps🔗 </h4>
+<b> 🌈DevOps🌈</b>
+
+ <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
 
 <!--
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
@@ -33,9 +35,8 @@
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazons3-DD344C?style=flat&logo=amazons3&logoColor=white"/>
   -->
-  <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
-
-<h4>✨Tools✨</h4>
+  
+<h4>✨Tools✨</b>
 
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
@@ -44,28 +45,28 @@
 <hr/>
 
 <h3> Education 📒 </h3>
-<h4>신세계 아이앤씨 KDT 3️⃣기</h4>
-<h4>🍀 AI플랫폼을 활용한 (리테일) 서비스 개발과정</h4>
+<b>신세계 아이앤씨 KDT 3️⃣기</b><br/>
 
+<b>🍀 AI플랫폼을 활용한 (리테일) 서비스 개발과정</b>
 - 교육일정 🗓️ 2023.08.14(월) ~ 2024.02.08(목)<br/>
 
 <hr/>
 
 <h3>  Project 📟 </h3>
-<h4>🕹️ PacBoy : Game Project with JAVA</h4>
+<b>🕹️ PacBoy : Game Project with JAVA</b>
 
-- 기능소개 💁‍♀️ 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
-- 개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)
-- 담당역할 👻 Project Leader, Back End, Integration, Refactoring
+-  기능소개 💁‍♀️ 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
+-  개발기간 🗓️ 23.09.13(수) - 23.09.20(수) (총 7일간)
+-  담당역할 👻 Project Leader, Back End, Integration, Refactoring
 
-<h4> 👩‍🦳 할방구 : 시니어 맞춤형 쇼핑몰</h4>
+<b> 👩‍🦳 할방구 : 시니어 맞춤형 쇼핑몰</b>
 
 -  차별점 💁‍♀️ : 회원 커뮤니티 및 간편이동 서비스
 -  개발기간 🗓️ 23.11.22(수) ~ 23.11.30(목) (총 9일간)
 -  담당역할 ⭐ 개인 프로젝트 (미완성)
 
 
-<h4>📦 SSGtarbucks : 매장 재고 관리 시스템</h4>
+<b>📦 SSGtarbucks : 매장 재고 관리 시스템</b>
 
 -  기능소개 💁‍♂️ QR코드를 활용한 소규모 매장 재고 관리 시스템
 -  개발기간 🗓️ 24.01.01(월) ~ 24.02.06(화) (총 37일간)
