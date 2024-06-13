@@ -27,7 +27,8 @@
   
 <b> 🌈DevOps🌈</b>
 
- <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&for-the-badge&logo=ansible&logoColor=white" />
 
 <!--
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
